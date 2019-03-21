@@ -1,0 +1,15 @@
+Package: demopackage
+Title: Ceci Est Mon Package Demo
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rene",
+           family = "Morissette",
+           role = c("aut", "cre"),
+           email = "rene.morissette@canada.ca")
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1
