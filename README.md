@@ -3,7 +3,7 @@
 demopackage
 ===========
 
-The goal of demopackage is to ...
+The goal of demopackage is to test package creation
 
 Installation
 ------------
