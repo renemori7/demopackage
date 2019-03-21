@@ -10,7 +10,7 @@
 #'
 #' @examples
 #' div_x(5,10)
-div_x <- function(x=1,y){
+div_x <- function(x=1,y=2){
   if(!is.numeric(x|y)){ #test. #Ne pas trop ajouter de test pour les fnt qui reviennent souvent
     stop('x and y must be numeric')
   }
